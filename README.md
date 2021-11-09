@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [Atchapedia](https://github.com/melody-story/24-1st-WTP-backend), [Flip](https://github.com/melody-story/24-2nd-FLIP-backend), [Glovoice](https://github.com/melody-story/24-3nd-glovoice)
 
-- 📝 I regularly write articles on [https://mymelody.tistory.com/](https://mymelody.tistory.com/)
+- 📝 I regularly write articles on [TECH BLOG](https://mymelody.tistory.com/)
 
 - 📫 How to reach me **myeonghee.son@gmail.com**
 
