@@ -19,7 +19,7 @@
 
 <p align="center">
 
-- 🌱 I’m currently studying **java, python, typescript, django, node.js**
+- 🌱 I like studying **`python`, `typescript`, `django`, `node.js`**
 
 - 👩‍💻 All of my projects are available at [Atchapedia](https://github.com/melody-story/24-1st-WTP-backend), [Flip](https://github.com/melody-story/24-2nd-FLIP-backend), [Glovoice](https://github.com/melody-story/24-3nd-glovoice)
 
