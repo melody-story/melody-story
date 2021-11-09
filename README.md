@@ -27,7 +27,7 @@
 
 - 📫 How to reach me **myeonghee.son@gmail.com**
 
-- 📄 Know about my experiences [Resume](http://naver.me/xevsILUq)
+- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAEuwGaV4Bg/share/preview?token=cTKR_xYWZeV9Q_SVucSVPg&role=EDITOR&utm_content=DAEuwGaV4Bg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 </p>
 <br>
 <h2 align="left">⚒ Skills</h2>
