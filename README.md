@@ -1,4 +1,3 @@
-
 <h2 align="left">🙋‍♀️ Introduction</h2>
 
 ---
@@ -6,14 +5,12 @@
 <h1 align="center">Hi 👋, I'm Myeonghee Son</h1>
 <h3 align="center">A passionate backend developer from Republic of Korea</h3>
 
-
 <div align=center>
+<img src="http://mazandi.herokuapp.com/api?handle={qhdk7454}&theme=warm"/>
 
-  [![profileviews](https://komarev.com/ghpvc/?username=melody-story&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=melody-story&label=Profile%20views&color=0e75b6&style=flat)   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-  
-  
+[![profileviews](https://komarev.com/ghpvc/?username=melody-story&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=melody-story&label=Profile%20views&color=0e75b6&style=flat) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
+
 </div>
-
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melody-story" alt="melody-story" /></a> </p>
 
@@ -33,6 +30,7 @@
 <h2 align="left">⚒ Skills</h2>
 
 ---
+
  <p>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
@@ -43,7 +41,7 @@
 
 </p>
  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="50"/> </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="50" height="50"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="50" height="50"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="50" height="50"/> </a>
@@ -62,13 +60,13 @@
 <h2 align="left">💎 Statistic</h2>
 
 ---
+
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=melody-story&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/melody-story)
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=melody-story&show_icons=true)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melody-story&" alt="melody-story" /></p>
 
+[![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=qhdk7454&theme=warm)](http://mazandi.herokuapp.com/api?handle=qhdk7454&theme=warm)
 
-  
-
-
- 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhdk7454)](https://solved.ac/qhdk7454/)
