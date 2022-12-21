@@ -13,7 +13,14 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melody-story" alt="melody-story" /></a> </p>
 
+<div align=center>
+
+[![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=qhdk7454&theme=warm)](http://mazandi.herokuapp.com/api?handle=qhdk7454&theme=warm/) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhdk7454)](https://solved.ac/qhdk7454/)
+
+</div>
+
 <p align="center">
+
 
 - 🌱 I like studying **`python`, `django`**
 
@@ -60,8 +67,6 @@
 
 ---
 
-[![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=qhdk7454&theme=warm)](http://mazandi.herokuapp.com/api?handle=qhdk7454&theme=warm)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhdk7454)](https://solved.ac/qhdk7454/)
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=melody-story&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/melody-story)
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=melody-story&show_icons=true)
