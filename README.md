@@ -22,15 +22,15 @@
 <p align="center">
 
 
-- 🌱 I like studying **`java`, `spring`, `python`, `django`**
+###  🌱 I like studying **`java`, `spring`, `python`, `django`**
 
-- 👩‍💻 All of my projects are available at [Atchapedia](https://github.com/melody-story/24-1st-WTP-backend), [Flip](https://github.com/melody-story/24-2nd-FLIP-backend), [Glovoice](https://github.com/melody-story/24-3nd-glovoice)
+###  👩‍💻 All of my projects are available at [Atchapedia](https://github.com/melody-story/24-1st-WTP-backend), [Flip](https://github.com/melody-story/24-2nd-FLIP-backend), [Glovoice](https://github.com/melody-story/24-3nd-glovoice)
 
-- 📝 I regularly write articles on [Blog](https://mymelody.tistory.com/)
+### 📝 I regularly write articles on [Blog](https://mymelody.tistory.com/)
 
-- 📫 How to reach me **myeonghee.son@gmail.com**
+### 📫 How to reach me **myeonghee.son@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAEuwGaV4Bg/fOpWPgCCOFcbvLeofQC90Q/view?utm_content=DAEuwGaV4Bg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+### 📄 Know about my experiences [Resume](https://www.canva.com/design/DAEuwGaV4Bg/fOpWPgCCOFcbvLeofQC90Q/view?utm_content=DAEuwGaV4Bg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 </p>
 <br>
 <h2 align="left">⚒ Skills</h2>
