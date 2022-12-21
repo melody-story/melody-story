@@ -6,7 +6,6 @@
 <h3 align="center">A passionate backend developer from Republic of Korea</h3>
 
 <div align=center>
-<img src="http://mazandi.herokuapp.com/api?handle={qhdk7454}&theme=warm"/>
 
 [![profileviews](https://komarev.com/ghpvc/?username=melody-story&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=melody-story&label=Profile%20views&color=0e75b6&style=flat) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com)
 
@@ -61,12 +60,11 @@
 
 ---
 
+[![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=qhdk7454&theme=warm)](http://mazandi.herokuapp.com/api?handle=qhdk7454&theme=warm)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhdk7454)](https://solved.ac/qhdk7454/)
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=melody-story&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/melody-story)
 
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=melody-story&show_icons=true)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=melody-story&" alt="melody-story" /></p>
 
-[![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=qhdk7454&theme=warm)](http://mazandi.herokuapp.com/api?handle=qhdk7454&theme=warm)
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhdk7454)](https://solved.ac/qhdk7454/)
