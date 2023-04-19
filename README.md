@@ -15,22 +15,23 @@
 
 <div align=center>
 
-[![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=qhdk7454&theme=warm)](http://mazandi.herokuapp.com/api?handle=qhdk7454&theme=warm/) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhdk7454)](https://solved.ac/qhdk7454/)
+<!-- [![Solved.ac 잔디](http://mazandi.herokuapp.com/api?handle=qhdk7454&theme=warm)](http://mazandi.herokuapp.com/api?handle=qhdk7454&theme=warm/)  -->
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qhdk7454)](https://solved.ac/qhdk7454/)
 
 </div>
 
 <p align="center">
 
 
-###  🌱 I like studying **`java`, `spring`, `python`, `django`**
+###  🌱 I like studying **`java`, `spring`, `spring boot`, `DevOps`**
 
-###  👩‍💻 All of my projects are available at [Atchapedia](https://github.com/melody-story/24-1st-WTP-backend), [Flip](https://github.com/melody-story/24-2nd-FLIP-backend), [Glovoice](https://github.com/melody-story/24-3nd-glovoice)
+###  👩‍💻 All of my projects are available at [TheKingdomOfAccounting](https://github.com/melody-story/theKingdomOfAccounting), [Atchapedia](https://github.com/melody-story/24-1st-WTP-backend), [Flip](https://github.com/melody-story/24-2nd-FLIP-backend), [Glovoice](https://github.com/melody-story/24-3nd-glovoice)
 
-### 📝 I regularly write articles on [Blog](https://mymelody.tistory.com/)
+### 📝 I regularly commit study resources on [Github - Today-I-Learned](https://github.com/melody-story/Today-I-Learned)
 
 ### 📫 How to reach me **myeonghee.son@gmail.com**
 
-### 📄 Know about my experiences [Resume](https://www.canva.com/design/DAEuwGaV4Bg/fOpWPgCCOFcbvLeofQC90Q/view?utm_content=DAEuwGaV4Bg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+<!-- ### 📄 Know about my experiences [Resume](https://www.canva.com/design/DAEuwGaV4Bg/fOpWPgCCOFcbvLeofQC90Q/view?utm_content=DAEuwGaV4Bg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) -->
 </p>
 <br>
 <h2 align="left">⚒ Skills</h2>
