@@ -25,7 +25,7 @@
 
 ###  🌱 I like studying **`java`, `spring`, `spring boot`, `DevOps`**
 
-###  👩‍💻 All of my projects are available at [TheKingdomOfAccounting](https://github.com/melody-story/theKingdomOfAccounting), [Atchapedia](https://github.com/melody-story/24-1st-WTP-backend), [Flip](https://github.com/melody-story/24-2nd-FLIP-backend), [Glovoice](https://github.com/melody-story/24-3nd-glovoice)
+###  👩‍💻 All of my projects are available at [king-of-settlement](https://github.com/f-lab-edu/king-of-settlement), [Atchapedia](https://github.com/melody-story/24-1st-WTP-backend), [Flip](https://github.com/melody-story/24-2nd-FLIP-backend), [Glovoice](https://github.com/melody-story/24-3nd-glovoice)
 
 ### 📝 I regularly commit study resources on [Github - TIL](https://github.com/melody-story/TIL)
 
